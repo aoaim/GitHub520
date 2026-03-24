@@ -49,7 +49,6 @@ INTERNATIONAL_DNS = [
     "208.67.222.222",   # OpenDNS
     # DNS.SB (德国/全球多节点)
     "185.222.222.222",  # DNS.SB primary
-    "45.11.45.11",      # DNS.SB secondary
     # Level 3 Parent DNS (美国)
     "4.2.2.1",
     # 台湾
@@ -80,6 +79,7 @@ def get_ip_list_from_dns(domain, dns_servers=None):
     if dns_servers is None:
         dns_servers = INTERNATIONAL_DNS
 
+    print(f"  DNS query start: {domain} ({len(dns_servers)} resolvers)")
     ips = set()
     max_workers = min(DNS_WORKERS, len(dns_servers))
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
@@ -91,6 +91,7 @@ def get_ip_list_from_dns(domain, dns_servers=None):
             except Exception as e:
                 print(f"  DNS {dns_server} query failed for {domain}: {e}")
 
+    print(f"  DNS query done: {domain}, unique A records: {len(ips)}")
     return list(ips)
 
 
@@ -132,7 +133,7 @@ def process_domain(domain):
     print(f"  DNS IPs: {len(ip_list_dns)}")
 
     ip_list = sorted(all_ips)
-    print(f"  Total unique IPs: {len(ip_list)}")
+    print(f"  Total unique IPs: {len(ip_list)} for {domain}")
     return domain, ip_list
 
 
@@ -141,18 +142,29 @@ def main():
     print("Fetching GitHub IPs from cloud (GitHub Action)")
     print("=" * 60)
     
+    print(f"Domain source: {PROJECT_ROOT / 'domains.py'}")
+    print(f"Total target domains: {len(GITHUB_URLS)}")
+    for i, domain in enumerate(GITHUB_URLS, 1):
+        print(f"  [{i:02d}] {domain}")
+
     results = {}
 
     with ThreadPoolExecutor(max_workers=DOMAIN_WORKERS) as executor:
         future_map = {executor.submit(process_domain, domain): domain for domain in GITHUB_URLS}
+        completed = 0
+        total = len(future_map)
         for future in as_completed(future_map):
             domain = future_map[future]
             try:
                 domain_name, ip_list = future.result()
                 results[domain_name] = ip_list
+                completed += 1
+                print(f"Progress: {completed}/{total} domains finished")
             except Exception as e:
                 print(f"Failed processing {domain}: {e}")
                 results[domain] = []
+                completed += 1
+                print(f"Progress: {completed}/{total} domains finished")
     
     # 写入 raw_ips.json
     output = {
