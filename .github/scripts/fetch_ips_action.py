@@ -47,20 +47,13 @@ INTERNATIONAL_DNS = [
     "1.1.1.1",          # Cloudflare
     "9.9.9.9",          # Quad9
     "208.67.222.222",   # OpenDNS
-    # DNS.SB (德国/全球多节点)
+    # DNS.SB
     "185.222.222.222",  # DNS.SB primary
-    # Level 3 Parent DNS (美国)
+    # Level 3 Parent DNS
     "4.2.2.1",
     # 台湾
     "101.101.101.101",  # TWNIC Quad101
-    # 香港
-    "202.14.67.4",      # PCCW
-    "203.80.64.66",     # HKBN
-    # 新加坡
-    "165.21.83.88",     # SingTel
-    "203.116.1.78",     # StarHub
     # 日本
-    "203.112.2.4",      # Line/OCN
     "210.196.3.183",    # IIJ
 ]
 
