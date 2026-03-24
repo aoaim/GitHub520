@@ -40,19 +40,16 @@ DOMAIN_WORKERS = 8
 
 # 国际权威 DNS 服务器
 INTERNATIONAL_DNS = [
-    # 国际
     "8.8.8.8",          # Google
     "1.1.1.1",          # Cloudflare
     "9.9.9.9",          # Quad9
     "208.67.222.222",   # OpenDNS
-    # DNS.SB
-    "185.222.222.222",  # DNS.SB primary
-    # Level 3 Parent DNS
-    "4.2.2.1",
-    # 台湾
-    "101.101.101.101",  # TWNIC Quad101
-    # 日本
+    "185.222.222.222",  # DNS.SB
+    "4.2.2.1",          # Level 3
+    "101.101.101.101",  # TWNIC
     "210.196.3.183",    # IIJ
+    "203.80.96.10",     # HKBN
+    "202.45.84.58",     # HGC
 ]
 
 
@@ -103,7 +100,7 @@ def main():
     print("=" * 60)
     print("Fetching GitHub IPs from cloud (GitHub Action)")
     print("=" * 60)
-    
+
     print(f"Domain source: {PROJECT_ROOT / 'domains.py'}")
     print(f"Total target domains: {len(GITHUB_URLS)}")
     for i, domain in enumerate(GITHUB_URLS, 1):
@@ -127,17 +124,17 @@ def main():
                 results[domain] = []
                 completed += 1
                 print(f"Progress: {completed}/{total} domains finished")
-    
+
     # 写入 raw_ips.json
     output = {
         "update_time": datetime.now(UTC).isoformat().replace("+00:00", "Z"),
         "source": "github-action",
         "data": results
     }
-    
+
     with open('raw_ips.json', 'w', encoding='utf-8') as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
-    
+
     print("\n" + "=" * 60)
     print(f"✓ Saved to raw_ips.json")
     print(f"  Total domains: {len(results)}")
