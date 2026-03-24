@@ -10,9 +10,9 @@ import re
 import sys
 sys.path.insert(0, '../../')
 
-from requests_html import HTMLSession
+import httpx
 import dns.resolver
-from retry import retry
+from tenacity import retry, stop_after_attempt, wait_fixed
 
 from domains import GITHUB_URLS
 
@@ -77,7 +77,7 @@ def get_ip_list_from_dns(domain, dns_servers=None):
     return list(ips)
 
 
-@retry(tries=3)
+@retry(stop=stop_after_attempt(3), wait=wait_fixed(1))
 def get_ip_list_from_ipaddress_com(session, domain):
     """从 ipaddress.com 抓取 IP 列表"""
     url = f'https://sites.ipaddress.com/{domain}'
@@ -86,10 +86,11 @@ def get_ip_list_from_ipaddress_com(session, domain):
     }
     
     try:
-        rs = session.get(url, headers=headers, timeout=10)
+        rs = session.get(url, headers=headers)
+        rs.raise_for_status()
         # 匹配页面中的 IP 地址
         pattern = r"\b(?:[0-9]{1,3}\.){3}[0-9]{1,3}\b"
-        ip_list = re.findall(pattern, rs.html.text)
+        ip_list = re.findall(pattern, rs.text)
         # 过滤无效 IP
         valid_ips = [ip for ip in ip_list if ip not in ["1.0.1.1", "1.2.1.1", "127.0.0.1"]]
         return valid_ips
@@ -103,31 +104,31 @@ def main():
     print("Fetching GitHub IPs from cloud (GitHub Action)")
     print("=" * 60)
     
-    session = HTMLSession()
     results = {}
-    
-    for idx, domain in enumerate(GITHUB_URLS, 1):
-        print(f"\n[{idx}/{len(GITHUB_URLS)}] Processing: {domain}")
-        
-        all_ips = set()
-        
-        # 1. 从 ipaddress.com 获取
-        print("  Querying ipaddress.com...")
-        ip_list_web = get_ip_list_from_ipaddress_com(session, domain)
-        all_ips.update(ip_list_web)
-        print(f"    Found {len(ip_list_web)} IPs")
-        
-        # 2. 从国际 DNS 获取
-        print("  Querying international DNS...")
-        ip_list_dns = get_ip_list_from_dns(domain)
-        all_ips.update(ip_list_dns)
-        print(f"    Found {len(ip_list_dns)} IPs")
-        
-        # 去重并排序
-        ip_list = sorted(list(all_ips))
-        results[domain] = ip_list
-        
-        print(f"  Total unique IPs: {len(ip_list)}")
+
+    with httpx.Client(timeout=10.0, follow_redirects=True) as session:
+        for idx, domain in enumerate(GITHUB_URLS, 1):
+            print(f"\n[{idx}/{len(GITHUB_URLS)}] Processing: {domain}")
+
+            all_ips = set()
+
+            # 1. 从 ipaddress.com 获取
+            print("  Querying ipaddress.com...")
+            ip_list_web = get_ip_list_from_ipaddress_com(session, domain)
+            all_ips.update(ip_list_web)
+            print(f"    Found {len(ip_list_web)} IPs")
+
+            # 2. 从国际 DNS 获取
+            print("  Querying international DNS...")
+            ip_list_dns = get_ip_list_from_dns(domain)
+            all_ips.update(ip_list_dns)
+            print(f"    Found {len(ip_list_dns)} IPs")
+
+            # 去重并排序
+            ip_list = sorted(list(all_ips))
+            results[domain] = ip_list
+
+            print(f"  Total unique IPs: {len(ip_list)}")
     
     # 写入 raw_ips.json
     output = {
