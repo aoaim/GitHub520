@@ -82,8 +82,7 @@ def get_ip_list_from_ipaddress_com(session, domain):
     """从 ipaddress.com 抓取 IP 列表"""
     url = f'https://sites.ipaddress.com/{domain}'
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) '
-                      'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        'User-Agent': 'curl/7.81.0'
     }
     
     try:
