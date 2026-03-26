@@ -1,6 +1,6 @@
 {
   "alive.github.com": {
-    "selected_ip": "140.82.114.25",
+    "selected_ip": "140.82.113.26",
     "candidates": [
       "140.82.112.25",
       "140.82.113.26",
@@ -9,23 +9,23 @@
     ],
     "results": [
       {
+        "ip": "140.82.113.26",
+        "delay_ms": 256.9,
+        "working": true
+      },
+      {
         "ip": "140.82.114.25",
-        "delay_ms": 265.0,
+        "delay_ms": 302.4,
         "working": true
       },
       {
         "ip": "140.82.112.25",
-        "delay_ms": 289.1,
+        "delay_ms": 341.3,
         "working": true
       },
       {
         "ip": "140.82.114.26",
-        "delay_ms": 320.0,
-        "working": true
-      },
-      {
-        "ip": "140.82.113.26",
-        "delay_ms": 320.3,
+        "delay_ms": 359.0,
         "working": true
       }
     ]
@@ -42,33 +42,33 @@
     "results": [
       {
         "ip": "140.82.113.6",
-        "delay_ms": 274.8,
-        "working": true
-      },
-      {
-        "ip": "140.82.114.5",
-        "delay_ms": 320.0,
-        "working": true
-      },
-      {
-        "ip": "140.82.113.5",
-        "delay_ms": 320.6,
-        "working": true
-      },
-      {
-        "ip": "140.82.112.6",
-        "delay_ms": 323.5,
+        "delay_ms": 277.2,
         "working": true
       },
       {
         "ip": "20.26.156.210",
-        "delay_ms": 327.5,
+        "delay_ms": 278.2,
+        "working": true
+      },
+      {
+        "ip": "140.82.114.5",
+        "delay_ms": 306.1,
+        "working": true
+      },
+      {
+        "ip": "140.82.113.5",
+        "delay_ms": 314.4,
+        "working": true
+      },
+      {
+        "ip": "140.82.112.6",
+        "delay_ms": 332.9,
         "working": true
       }
     ]
   },
   "api.individual.githubcopilot.com": {
-    "selected_ip": "140.82.114.22",
+    "selected_ip": "140.82.113.21",
     "candidates": [
       "140.82.112.21",
       "140.82.112.22",
@@ -77,29 +77,29 @@
     ],
     "results": [
       {
-        "ip": "140.82.114.22",
-        "delay_ms": 256.9,
-        "working": true
-      },
-      {
         "ip": "140.82.113.21",
-        "delay_ms": 319.9,
+        "delay_ms": 242.2,
         "working": true
       },
       {
         "ip": "140.82.112.22",
-        "delay_ms": 320.2,
+        "delay_ms": 244.4,
         "working": true
       },
       {
         "ip": "140.82.112.21",
-        "delay_ms": 323.3,
+        "delay_ms": 256.1,
+        "working": true
+      },
+      {
+        "ip": "140.82.114.22",
+        "delay_ms": 275.9,
         "working": true
       }
     ]
   },
   "avatars.githubusercontent.com": {
-    "selected_ip": "185.199.109.133",
+    "selected_ip": "185.199.110.133",
     "candidates": [
       "185.199.108.133",
       "185.199.109.133",
@@ -108,29 +108,29 @@
     ],
     "results": [
       {
-        "ip": "185.199.109.133",
-        "delay_ms": 70.6,
-        "working": true
-      },
-      {
-        "ip": "185.199.111.133",
-        "delay_ms": 72.9,
+        "ip": "185.199.110.133",
+        "delay_ms": 59.9,
         "working": true
       },
       {
         "ip": "185.199.108.133",
-        "delay_ms": 72.9,
+        "delay_ms": 71.7,
         "working": true
       },
       {
-        "ip": "185.199.110.133",
-        "delay_ms": 90.2,
+        "ip": "185.199.109.133",
+        "delay_ms": 78.9,
+        "working": true
+      },
+      {
+        "ip": "185.199.111.133",
+        "delay_ms": 82.3,
         "working": true
       }
     ]
   },
   "avatars0.githubusercontent.com": {
-    "selected_ip": "185.199.109.133",
+    "selected_ip": "185.199.110.133",
     "candidates": [
       "185.199.108.133",
       "185.199.109.133",
@@ -139,29 +139,29 @@
     ],
     "results": [
       {
-        "ip": "185.199.109.133",
-        "delay_ms": 70.6,
-        "working": true
-      },
-      {
-        "ip": "185.199.111.133",
-        "delay_ms": 72.9,
+        "ip": "185.199.110.133",
+        "delay_ms": 59.9,
         "working": true
       },
       {
         "ip": "185.199.108.133",
-        "delay_ms": 72.9,
+        "delay_ms": 71.7,
         "working": true
       },
       {
-        "ip": "185.199.110.133",
-        "delay_ms": 90.2,
+        "ip": "185.199.109.133",
+        "delay_ms": 78.9,
+        "working": true
+      },
+      {
+        "ip": "185.199.111.133",
+        "delay_ms": 82.3,
         "working": true
       }
     ]
   },
   "avatars1.githubusercontent.com": {
-    "selected_ip": "185.199.109.133",
+    "selected_ip": "185.199.110.133",
     "candidates": [
       "185.199.108.133",
       "185.199.109.133",
@@ -170,29 +170,29 @@
     ],
     "results": [
       {
-        "ip": "185.199.109.133",
-        "delay_ms": 70.6,
-        "working": true
-      },
-      {
-        "ip": "185.199.111.133",
-        "delay_ms": 72.9,
+        "ip": "185.199.110.133",
+        "delay_ms": 59.9,
         "working": true
       },
       {
         "ip": "185.199.108.133",
-        "delay_ms": 72.9,
+        "delay_ms": 71.7,
         "working": true
       },
       {
-        "ip": "185.199.110.133",
-        "delay_ms": 90.2,
+        "ip": "185.199.109.133",
+        "delay_ms": 78.9,
+        "working": true
+      },
+      {
+        "ip": "185.199.111.133",
+        "delay_ms": 82.3,
         "working": true
       }
     ]
   },
   "avatars2.githubusercontent.com": {
-    "selected_ip": "185.199.109.133",
+    "selected_ip": "185.199.110.133",
     "candidates": [
       "185.199.108.133",
       "185.199.109.133",
@@ -201,29 +201,29 @@
     ],
     "results": [
       {
-        "ip": "185.199.109.133",
-        "delay_ms": 70.6,
-        "working": true
-      },
-      {
-        "ip": "185.199.111.133",
-        "delay_ms": 72.9,
+        "ip": "185.199.110.133",
+        "delay_ms": 59.9,
         "working": true
       },
       {
         "ip": "185.199.108.133",
-        "delay_ms": 72.9,
+        "delay_ms": 71.7,
         "working": true
       },
       {
-        "ip": "185.199.110.133",
-        "delay_ms": 90.2,
+        "ip": "185.199.109.133",
+        "delay_ms": 78.9,
+        "working": true
+      },
+      {
+        "ip": "185.199.111.133",
+        "delay_ms": 82.3,
         "working": true
       }
     ]
   },
   "avatars3.githubusercontent.com": {
-    "selected_ip": "185.199.109.133",
+    "selected_ip": "185.199.110.133",
     "candidates": [
       "185.199.108.133",
       "185.199.109.133",
@@ -232,29 +232,29 @@
     ],
     "results": [
       {
-        "ip": "185.199.109.133",
-        "delay_ms": 70.6,
-        "working": true
-      },
-      {
-        "ip": "185.199.111.133",
-        "delay_ms": 72.9,
+        "ip": "185.199.110.133",
+        "delay_ms": 59.9,
         "working": true
       },
       {
         "ip": "185.199.108.133",
-        "delay_ms": 72.9,
+        "delay_ms": 71.7,
         "working": true
       },
       {
-        "ip": "185.199.110.133",
-        "delay_ms": 90.2,
+        "ip": "185.199.109.133",
+        "delay_ms": 78.9,
+        "working": true
+      },
+      {
+        "ip": "185.199.111.133",
+        "delay_ms": 82.3,
         "working": true
       }
     ]
   },
   "avatars4.githubusercontent.com": {
-    "selected_ip": "185.199.109.133",
+    "selected_ip": "185.199.110.133",
     "candidates": [
       "185.199.108.133",
       "185.199.109.133",
@@ -263,29 +263,29 @@
     ],
     "results": [
       {
-        "ip": "185.199.109.133",
-        "delay_ms": 70.6,
-        "working": true
-      },
-      {
-        "ip": "185.199.111.133",
-        "delay_ms": 72.9,
+        "ip": "185.199.110.133",
+        "delay_ms": 59.9,
         "working": true
       },
       {
         "ip": "185.199.108.133",
-        "delay_ms": 72.9,
+        "delay_ms": 71.7,
         "working": true
       },
       {
-        "ip": "185.199.110.133",
-        "delay_ms": 90.2,
+        "ip": "185.199.109.133",
+        "delay_ms": 78.9,
+        "working": true
+      },
+      {
+        "ip": "185.199.111.133",
+        "delay_ms": 82.3,
         "working": true
       }
     ]
   },
   "avatars5.githubusercontent.com": {
-    "selected_ip": "185.199.109.133",
+    "selected_ip": "185.199.110.133",
     "candidates": [
       "185.199.108.133",
       "185.199.109.133",
@@ -294,29 +294,29 @@
     ],
     "results": [
       {
-        "ip": "185.199.109.133",
-        "delay_ms": 70.6,
-        "working": true
-      },
-      {
-        "ip": "185.199.111.133",
-        "delay_ms": 72.9,
+        "ip": "185.199.110.133",
+        "delay_ms": 59.9,
         "working": true
       },
       {
         "ip": "185.199.108.133",
-        "delay_ms": 72.9,
+        "delay_ms": 71.7,
         "working": true
       },
       {
-        "ip": "185.199.110.133",
-        "delay_ms": 90.2,
+        "ip": "185.199.109.133",
+        "delay_ms": 78.9,
+        "working": true
+      },
+      {
+        "ip": "185.199.111.133",
+        "delay_ms": 82.3,
         "working": true
       }
     ]
   },
   "camo.githubusercontent.com": {
-    "selected_ip": "185.199.109.133",
+    "selected_ip": "185.199.110.133",
     "candidates": [
       "185.199.108.133",
       "185.199.109.133",
@@ -325,29 +325,29 @@
     ],
     "results": [
       {
-        "ip": "185.199.109.133",
-        "delay_ms": 70.6,
-        "working": true
-      },
-      {
-        "ip": "185.199.111.133",
-        "delay_ms": 72.9,
+        "ip": "185.199.110.133",
+        "delay_ms": 59.9,
         "working": true
       },
       {
         "ip": "185.199.108.133",
-        "delay_ms": 72.9,
+        "delay_ms": 71.7,
         "working": true
       },
       {
-        "ip": "185.199.110.133",
-        "delay_ms": 90.2,
+        "ip": "185.199.109.133",
+        "delay_ms": 78.9,
+        "working": true
+      },
+      {
+        "ip": "185.199.111.133",
+        "delay_ms": 82.3,
         "working": true
       }
     ]
   },
   "central.github.com": {
-    "selected_ip": "140.82.114.22",
+    "selected_ip": "140.82.113.21",
     "candidates": [
       "140.82.112.21",
       "140.82.112.22",
@@ -357,34 +357,34 @@
     ],
     "results": [
       {
-        "ip": "140.82.114.22",
-        "delay_ms": 256.9,
-        "working": true
-      },
-      {
-        "ip": "140.82.114.21",
-        "delay_ms": 304.2,
-        "working": true
-      },
-      {
         "ip": "140.82.113.21",
-        "delay_ms": 319.9,
+        "delay_ms": 242.2,
         "working": true
       },
       {
         "ip": "140.82.112.22",
-        "delay_ms": 320.2,
+        "delay_ms": 244.4,
         "working": true
       },
       {
         "ip": "140.82.112.21",
-        "delay_ms": 323.3,
+        "delay_ms": 256.1,
+        "working": true
+      },
+      {
+        "ip": "140.82.114.22",
+        "delay_ms": 275.9,
+        "working": true
+      },
+      {
+        "ip": "140.82.114.21",
+        "delay_ms": 317.8,
         "working": true
       }
     ]
   },
   "cloud.githubusercontent.com": {
-    "selected_ip": "185.199.109.133",
+    "selected_ip": "185.199.110.133",
     "candidates": [
       "185.199.108.133",
       "185.199.109.133",
@@ -393,29 +393,29 @@
     ],
     "results": [
       {
-        "ip": "185.199.109.133",
-        "delay_ms": 70.6,
-        "working": true
-      },
-      {
-        "ip": "185.199.111.133",
-        "delay_ms": 72.9,
+        "ip": "185.199.110.133",
+        "delay_ms": 59.9,
         "working": true
       },
       {
         "ip": "185.199.108.133",
-        "delay_ms": 72.9,
+        "delay_ms": 71.7,
         "working": true
       },
       {
-        "ip": "185.199.110.133",
-        "delay_ms": 90.2,
+        "ip": "185.199.109.133",
+        "delay_ms": 78.9,
+        "working": true
+      },
+      {
+        "ip": "185.199.111.133",
+        "delay_ms": 82.3,
         "working": true
       }
     ]
   },
   "codeload.github.com": {
-    "selected_ip": "140.82.114.10",
+    "selected_ip": "140.82.113.9",
     "candidates": [
       "140.82.112.10",
       "140.82.112.9",
@@ -426,39 +426,39 @@
     ],
     "results": [
       {
-        "ip": "140.82.114.10",
-        "delay_ms": 260.3,
-        "working": true
-      },
-      {
         "ip": "140.82.113.9",
-        "delay_ms": 269.5,
+        "delay_ms": 280.6,
         "working": true
       },
       {
         "ip": "140.82.113.10",
-        "delay_ms": 274.8,
+        "delay_ms": 319.3,
         "working": true
       },
       {
-        "ip": "140.82.112.9",
-        "delay_ms": 319.7,
+        "ip": "140.82.114.10",
+        "delay_ms": 319.6,
         "working": true
       },
       {
         "ip": "140.82.112.10",
-        "delay_ms": 320.1,
+        "delay_ms": 319.8,
         "working": true
       },
       {
         "ip": "20.26.156.216",
-        "delay_ms": 320.2,
+        "delay_ms": 320.1,
+        "working": true
+      },
+      {
+        "ip": "140.82.112.9",
+        "delay_ms": 320.5,
         "working": true
       }
     ]
   },
   "collector.github.com": {
-    "selected_ip": "140.82.114.22",
+    "selected_ip": "140.82.113.21",
     "candidates": [
       "140.82.112.22",
       "140.82.113.21",
@@ -467,29 +467,29 @@
     ],
     "results": [
       {
-        "ip": "140.82.114.22",
-        "delay_ms": 256.9,
-        "working": true
-      },
-      {
-        "ip": "140.82.113.22",
-        "delay_ms": 319.6,
-        "working": true
-      },
-      {
         "ip": "140.82.113.21",
-        "delay_ms": 319.9,
+        "delay_ms": 242.2,
         "working": true
       },
       {
         "ip": "140.82.112.22",
-        "delay_ms": 320.2,
+        "delay_ms": 244.4,
+        "working": true
+      },
+      {
+        "ip": "140.82.114.22",
+        "delay_ms": 275.9,
+        "working": true
+      },
+      {
+        "ip": "140.82.113.22",
+        "delay_ms": 327.3,
         "working": true
       }
     ]
   },
   "desktop.githubusercontent.com": {
-    "selected_ip": "185.199.109.133",
+    "selected_ip": "185.199.110.133",
     "candidates": [
       "185.199.108.133",
       "185.199.109.133",
@@ -498,29 +498,29 @@
     ],
     "results": [
       {
-        "ip": "185.199.109.133",
-        "delay_ms": 70.6,
-        "working": true
-      },
-      {
-        "ip": "185.199.111.133",
-        "delay_ms": 72.9,
+        "ip": "185.199.110.133",
+        "delay_ms": 59.9,
         "working": true
       },
       {
         "ip": "185.199.108.133",
-        "delay_ms": 72.9,
+        "delay_ms": 71.7,
         "working": true
       },
       {
-        "ip": "185.199.110.133",
-        "delay_ms": 90.2,
+        "ip": "185.199.109.133",
+        "delay_ms": 78.9,
+        "working": true
+      },
+      {
+        "ip": "185.199.111.133",
+        "delay_ms": 82.3,
         "working": true
       }
     ]
   },
   "favicons.githubusercontent.com": {
-    "selected_ip": "185.199.109.133",
+    "selected_ip": "185.199.110.133",
     "candidates": [
       "185.199.108.133",
       "185.199.109.133",
@@ -529,23 +529,23 @@
     ],
     "results": [
       {
-        "ip": "185.199.109.133",
-        "delay_ms": 70.6,
-        "working": true
-      },
-      {
-        "ip": "185.199.111.133",
-        "delay_ms": 72.9,
+        "ip": "185.199.110.133",
+        "delay_ms": 59.9,
         "working": true
       },
       {
         "ip": "185.199.108.133",
-        "delay_ms": 72.9,
+        "delay_ms": 71.7,
         "working": true
       },
       {
-        "ip": "185.199.110.133",
-        "delay_ms": 90.2,
+        "ip": "185.199.109.133",
+        "delay_ms": 78.9,
+        "working": true
+      },
+      {
+        "ip": "185.199.111.133",
+        "delay_ms": 82.3,
         "working": true
       }
     ]
@@ -561,12 +561,7 @@
     "results": [
       {
         "ip": "140.82.113.3",
-        "delay_ms": 319.8,
-        "working": true
-      },
-      {
-        "ip": "20.26.156.215",
-        "delay_ms": 319.8,
+        "delay_ms": 260.7,
         "working": true
       },
       {
@@ -575,14 +570,19 @@
         "working": true
       },
       {
+        "ip": "20.26.156.215",
+        "delay_ms": 320.0,
+        "working": true
+      },
+      {
         "ip": "140.82.114.3",
-        "delay_ms": 320.1,
+        "delay_ms": 351.0,
         "working": true
       }
     ]
   },
   "github-cloud.s3.amazonaws.com": {
-    "selected_ip": "16.15.207.188",
+    "selected_ip": "3.5.30.156",
     "candidates": [
       "16.15.177.12",
       "16.15.177.90",
@@ -635,238 +635,238 @@
     ],
     "results": [
       {
-        "ip": "16.15.207.188",
-        "delay_ms": 235.9,
-        "working": true
-      },
-      {
-        "ip": "16.15.218.137",
-        "delay_ms": 237.4,
-        "working": true
-      },
-      {
-        "ip": "54.231.195.233",
-        "delay_ms": 239.2,
-        "working": true
-      },
-      {
-        "ip": "52.217.114.161",
-        "delay_ms": 242.7,
+        "ip": "3.5.30.156",
+        "delay_ms": 231.4,
         "working": true
       },
       {
         "ip": "52.216.56.153",
-        "delay_ms": 244.9,
-        "working": true
-      },
-      {
-        "ip": "54.231.134.185",
-        "delay_ms": 245.1,
-        "working": true
-      },
-      {
-        "ip": "3.5.28.176",
-        "delay_ms": 246.6,
-        "working": true
-      },
-      {
-        "ip": "16.15.193.168",
-        "delay_ms": 247.1,
-        "working": true
-      },
-      {
-        "ip": "16.15.199.49",
-        "delay_ms": 247.2,
-        "working": true
-      },
-      {
-        "ip": "3.5.21.183",
-        "delay_ms": 248.3,
-        "working": true
-      },
-      {
-        "ip": "16.15.177.90",
-        "delay_ms": 252.0,
-        "working": true
-      },
-      {
-        "ip": "16.15.183.101",
-        "delay_ms": 254.5,
-        "working": true
-      },
-      {
-        "ip": "3.5.21.171",
-        "delay_ms": 255.9,
-        "working": true
-      },
-      {
-        "ip": "16.15.219.10",
-        "delay_ms": 257.3,
-        "working": true
-      },
-      {
-        "ip": "52.217.32.148",
-        "delay_ms": 257.6,
-        "working": true
-      },
-      {
-        "ip": "16.15.181.190",
-        "delay_ms": 258.0,
-        "working": true
-      },
-      {
-        "ip": "54.231.132.153",
-        "delay_ms": 258.5,
-        "working": true
-      },
-      {
-        "ip": "52.217.162.49",
-        "delay_ms": 259.0,
-        "working": true
-      },
-      {
-        "ip": "52.217.136.81",
-        "delay_ms": 259.6,
-        "working": true
-      },
-      {
-        "ip": "52.216.37.145",
-        "delay_ms": 260.9,
-        "working": true
-      },
-      {
-        "ip": "16.15.228.171",
-        "delay_ms": 264.8,
-        "working": true
-      },
-      {
-        "ip": "16.15.199.71",
-        "delay_ms": 268.6,
-        "working": true
-      },
-      {
-        "ip": "52.216.209.65",
-        "delay_ms": 273.5,
-        "working": true
-      },
-      {
-        "ip": "3.5.31.37",
-        "delay_ms": 273.5,
-        "working": true
-      },
-      {
-        "ip": "16.15.189.139",
-        "delay_ms": 274.4,
-        "working": true
-      },
-      {
-        "ip": "16.15.191.164",
-        "delay_ms": 274.8,
-        "working": true
-      },
-      {
-        "ip": "54.231.229.89",
-        "delay_ms": 276.0,
+        "delay_ms": 232.9,
         "working": true
       },
       {
         "ip": "52.217.124.97",
-        "delay_ms": 276.1,
+        "delay_ms": 236.4,
         "working": true
       },
       {
-        "ip": "52.216.217.57",
-        "delay_ms": 277.1,
+        "ip": "16.15.183.101",
+        "delay_ms": 236.7,
         "working": true
       },
       {
-        "ip": "3.5.27.89",
-        "delay_ms": 277.7,
+        "ip": "16.15.193.168",
+        "delay_ms": 237.1,
         "working": true
       },
       {
-        "ip": "52.217.199.121",
-        "delay_ms": 279.0,
+        "ip": "52.216.37.145",
+        "delay_ms": 237.6,
         "working": true
       },
       {
-        "ip": "16.15.177.12",
-        "delay_ms": 279.7,
+        "ip": "16.15.199.71",
+        "delay_ms": 240.0,
+        "working": true
+      },
+      {
+        "ip": "54.231.134.185",
+        "delay_ms": 240.0,
         "working": true
       },
       {
         "ip": "52.216.53.73",
-        "delay_ms": 281.6,
-        "working": true
-      },
-      {
-        "ip": "3.5.27.222",
-        "delay_ms": 283.0,
-        "working": true
-      },
-      {
-        "ip": "16.182.32.185",
-        "delay_ms": 287.3,
-        "working": true
-      },
-      {
-        "ip": "3.5.30.156",
-        "delay_ms": 290.7,
-        "working": true
-      },
-      {
-        "ip": "3.5.27.19",
-        "delay_ms": 291.2,
-        "working": true
-      },
-      {
-        "ip": "52.217.192.249",
-        "delay_ms": 302.4,
+        "delay_ms": 241.6,
         "working": true
       },
       {
         "ip": "52.217.78.196",
-        "delay_ms": 308.6,
-        "working": true
-      },
-      {
-        "ip": "3.5.0.105",
-        "delay_ms": 317.0,
-        "working": true
-      },
-      {
-        "ip": "52.217.171.249",
-        "delay_ms": 319.7,
-        "working": true
-      },
-      {
-        "ip": "52.217.120.185",
-        "delay_ms": 319.9,
-        "working": true
-      },
-      {
-        "ip": "52.217.77.92",
-        "delay_ms": 319.9,
-        "working": true
-      },
-      {
-        "ip": "54.231.198.177",
-        "delay_ms": 319.9,
-        "working": true
-      },
-      {
-        "ip": "16.15.228.96",
-        "delay_ms": 349.3,
+        "delay_ms": 242.3,
         "working": true
       },
       {
         "ip": "52.217.41.180",
-        "delay_ms": 369.0,
+        "delay_ms": 242.6,
+        "working": true
+      },
+      {
+        "ip": "52.216.209.65",
+        "delay_ms": 243.0,
+        "working": true
+      },
+      {
+        "ip": "16.15.177.90",
+        "delay_ms": 243.2,
+        "working": true
+      },
+      {
+        "ip": "16.15.189.139",
+        "delay_ms": 243.4,
+        "working": true
+      },
+      {
+        "ip": "16.15.219.10",
+        "delay_ms": 243.5,
+        "working": true
+      },
+      {
+        "ip": "3.5.27.19",
+        "delay_ms": 244.4,
+        "working": true
+      },
+      {
+        "ip": "3.5.0.105",
+        "delay_ms": 244.8,
+        "working": true
+      },
+      {
+        "ip": "52.216.217.57",
+        "delay_ms": 247.1,
+        "working": true
+      },
+      {
+        "ip": "16.15.191.164",
+        "delay_ms": 248.4,
+        "working": true
+      },
+      {
+        "ip": "3.5.21.183",
+        "delay_ms": 249.2,
+        "working": true
+      },
+      {
+        "ip": "52.217.136.81",
+        "delay_ms": 249.5,
+        "working": true
+      },
+      {
+        "ip": "3.5.28.176",
+        "delay_ms": 250.5,
+        "working": true
+      },
+      {
+        "ip": "3.5.27.89",
+        "delay_ms": 251.5,
+        "working": true
+      },
+      {
+        "ip": "52.217.192.249",
+        "delay_ms": 253.2,
+        "working": true
+      },
+      {
+        "ip": "52.217.199.121",
+        "delay_ms": 253.8,
+        "working": true
+      },
+      {
+        "ip": "52.217.32.148",
+        "delay_ms": 254.1,
+        "working": true
+      },
+      {
+        "ip": "16.15.177.12",
+        "delay_ms": 255.7,
+        "working": true
+      },
+      {
+        "ip": "3.5.27.222",
+        "delay_ms": 255.9,
+        "working": true
+      },
+      {
+        "ip": "16.15.228.96",
+        "delay_ms": 256.7,
+        "working": true
+      },
+      {
+        "ip": "54.231.132.153",
+        "delay_ms": 257.0,
+        "working": true
+      },
+      {
+        "ip": "16.15.181.190",
+        "delay_ms": 257.3,
+        "working": true
+      },
+      {
+        "ip": "16.15.207.188",
+        "delay_ms": 257.8,
         "working": true
       },
       {
         "ip": "3.5.0.21",
-        "delay_ms": 561.2,
+        "delay_ms": 258.1,
+        "working": true
+      },
+      {
+        "ip": "16.15.218.137",
+        "delay_ms": 258.4,
+        "working": true
+      },
+      {
+        "ip": "52.217.120.185",
+        "delay_ms": 259.5,
+        "working": true
+      },
+      {
+        "ip": "54.231.229.89",
+        "delay_ms": 260.1,
+        "working": true
+      },
+      {
+        "ip": "16.15.199.49",
+        "delay_ms": 261.8,
+        "working": true
+      },
+      {
+        "ip": "3.5.31.37",
+        "delay_ms": 262.8,
+        "working": true
+      },
+      {
+        "ip": "52.217.114.161",
+        "delay_ms": 264.6,
+        "working": true
+      },
+      {
+        "ip": "52.217.162.49",
+        "delay_ms": 265.1,
+        "working": true
+      },
+      {
+        "ip": "52.217.171.249",
+        "delay_ms": 265.4,
+        "working": true
+      },
+      {
+        "ip": "16.15.228.171",
+        "delay_ms": 265.7,
+        "working": true
+      },
+      {
+        "ip": "54.231.198.177",
+        "delay_ms": 274.4,
+        "working": true
+      },
+      {
+        "ip": "52.217.77.92",
+        "delay_ms": 275.3,
+        "working": true
+      },
+      {
+        "ip": "3.5.21.171",
+        "delay_ms": 275.9,
+        "working": true
+      },
+      {
+        "ip": "16.182.32.185",
+        "delay_ms": 277.3,
+        "working": true
+      },
+      {
+        "ip": "54.231.195.233",
+        "delay_ms": 307.3,
         "working": true
       },
       {
@@ -877,7 +877,7 @@
     ]
   },
   "github-com.s3.amazonaws.com": {
-    "selected_ip": "52.217.64.188",
+    "selected_ip": "3.5.30.156",
     "candidates": [
       "16.15.177.12",
       "16.15.177.90",
@@ -929,244 +929,244 @@
     ],
     "results": [
       {
-        "ip": "52.217.64.188",
-        "delay_ms": 234.9,
-        "working": true
-      },
-      {
-        "ip": "16.15.207.188",
-        "delay_ms": 235.9,
-        "working": true
-      },
-      {
-        "ip": "16.15.228.181",
-        "delay_ms": 237.2,
-        "working": true
-      },
-      {
-        "ip": "3.5.25.243",
-        "delay_ms": 238.6,
-        "working": true
-      },
-      {
-        "ip": "16.15.253.159",
-        "delay_ms": 239.3,
-        "working": true
-      },
-      {
-        "ip": "3.5.28.156",
-        "delay_ms": 240.1,
-        "working": true
-      },
-      {
-        "ip": "52.217.114.161",
-        "delay_ms": 242.7,
+        "ip": "3.5.30.156",
+        "delay_ms": 231.4,
         "working": true
       },
       {
         "ip": "16.15.187.212",
-        "delay_ms": 244.8,
+        "delay_ms": 234.7,
         "working": true
       },
       {
-        "ip": "54.231.134.185",
-        "delay_ms": 245.1,
-        "working": true
-      },
-      {
-        "ip": "52.216.43.153",
-        "delay_ms": 246.2,
-        "working": true
-      },
-      {
-        "ip": "16.15.193.168",
-        "delay_ms": 247.1,
-        "working": true
-      },
-      {
-        "ip": "16.15.199.49",
-        "delay_ms": 247.2,
-        "working": true
-      },
-      {
-        "ip": "16.15.177.90",
-        "delay_ms": 252.0,
-        "working": true
-      },
-      {
-        "ip": "3.5.28.81",
-        "delay_ms": 253.8,
-        "working": true
-      },
-      {
-        "ip": "16.15.236.175",
-        "delay_ms": 253.9,
-        "working": true
-      },
-      {
-        "ip": "16.182.64.105",
-        "delay_ms": 254.8,
-        "working": true
-      },
-      {
-        "ip": "16.182.33.145",
-        "delay_ms": 255.1,
-        "working": true
-      },
-      {
-        "ip": "54.231.201.241",
-        "delay_ms": 255.5,
-        "working": true
-      },
-      {
-        "ip": "16.15.181.190",
-        "delay_ms": 258.0,
-        "working": true
-      },
-      {
-        "ip": "54.231.132.153",
-        "delay_ms": 258.5,
-        "working": true
-      },
-      {
-        "ip": "52.217.136.81",
-        "delay_ms": 259.6,
-        "working": true
-      },
-      {
-        "ip": "16.182.73.113",
-        "delay_ms": 260.9,
-        "working": true
-      },
-      {
-        "ip": "16.15.183.196",
-        "delay_ms": 262.3,
-        "working": true
-      },
-      {
-        "ip": "54.231.230.33",
-        "delay_ms": 266.7,
-        "working": true
-      },
-      {
-        "ip": "3.5.27.101",
-        "delay_ms": 267.1,
-        "working": true
-      },
-      {
-        "ip": "16.15.199.71",
-        "delay_ms": 268.6,
-        "working": true
-      },
-      {
-        "ip": "52.216.26.108",
-        "delay_ms": 269.5,
-        "working": true
-      },
-      {
-        "ip": "52.217.160.201",
-        "delay_ms": 269.8,
-        "working": true
-      },
-      {
-        "ip": "52.217.141.105",
-        "delay_ms": 271.8,
-        "working": true
-      },
-      {
-        "ip": "16.15.191.167",
-        "delay_ms": 272.2,
-        "working": true
-      },
-      {
-        "ip": "52.216.209.65",
-        "delay_ms": 273.5,
-        "working": true
-      },
-      {
-        "ip": "54.231.229.89",
-        "delay_ms": 276.0,
+        "ip": "52.217.64.188",
+        "delay_ms": 235.0,
         "working": true
       },
       {
         "ip": "52.217.124.97",
-        "delay_ms": 276.1,
+        "delay_ms": 236.4,
         "working": true
       },
       {
-        "ip": "52.216.217.57",
-        "delay_ms": 277.1,
+        "ip": "16.15.193.168",
+        "delay_ms": 237.1,
         "working": true
       },
       {
-        "ip": "52.217.170.105",
-        "delay_ms": 277.3,
+        "ip": "3.5.25.243",
+        "delay_ms": 237.4,
         "working": true
       },
       {
-        "ip": "52.217.199.121",
-        "delay_ms": 279.0,
-        "working": true
-      },
-      {
-        "ip": "16.15.177.12",
-        "delay_ms": 279.7,
+        "ip": "52.217.141.105",
+        "delay_ms": 238.6,
         "working": true
       },
       {
         "ip": "3.5.8.131",
-        "delay_ms": 281.3,
+        "delay_ms": 239.0,
+        "working": true
+      },
+      {
+        "ip": "16.15.199.71",
+        "delay_ms": 240.0,
+        "working": true
+      },
+      {
+        "ip": "54.231.134.185",
+        "delay_ms": 240.0,
         "working": true
       },
       {
         "ip": "52.216.53.73",
-        "delay_ms": 281.6,
-        "working": true
-      },
-      {
-        "ip": "16.182.32.185",
-        "delay_ms": 287.3,
-        "working": true
-      },
-      {
-        "ip": "3.5.30.156",
-        "delay_ms": 290.7,
-        "working": true
-      },
-      {
-        "ip": "3.5.27.19",
-        "delay_ms": 291.2,
-        "working": true
-      },
-      {
-        "ip": "52.217.192.249",
-        "delay_ms": 302.4,
-        "working": true
-      },
-      {
-        "ip": "3.5.0.105",
-        "delay_ms": 317.0,
-        "working": true
-      },
-      {
-        "ip": "54.231.198.177",
-        "delay_ms": 319.9,
-        "working": true
-      },
-      {
-        "ip": "16.15.183.112",
-        "delay_ms": 320.0,
+        "delay_ms": 241.6,
         "working": true
       },
       {
         "ip": "52.217.41.180",
-        "delay_ms": 369.0,
+        "delay_ms": 242.6,
+        "working": true
+      },
+      {
+        "ip": "52.216.209.65",
+        "delay_ms": 243.0,
+        "working": true
+      },
+      {
+        "ip": "16.15.177.90",
+        "delay_ms": 243.2,
+        "working": true
+      },
+      {
+        "ip": "54.231.201.241",
+        "delay_ms": 244.3,
+        "working": true
+      },
+      {
+        "ip": "3.5.27.19",
+        "delay_ms": 244.4,
+        "working": true
+      },
+      {
+        "ip": "16.15.228.181",
+        "delay_ms": 244.5,
+        "working": true
+      },
+      {
+        "ip": "3.5.0.105",
+        "delay_ms": 244.8,
+        "working": true
+      },
+      {
+        "ip": "52.217.160.201",
+        "delay_ms": 245.2,
+        "working": true
+      },
+      {
+        "ip": "16.15.253.159",
+        "delay_ms": 245.5,
+        "working": true
+      },
+      {
+        "ip": "52.217.170.105",
+        "delay_ms": 246.4,
+        "working": true
+      },
+      {
+        "ip": "52.216.217.57",
+        "delay_ms": 247.1,
+        "working": true
+      },
+      {
+        "ip": "16.15.236.175",
+        "delay_ms": 247.2,
+        "working": true
+      },
+      {
+        "ip": "16.182.33.145",
+        "delay_ms": 248.2,
+        "working": true
+      },
+      {
+        "ip": "16.15.183.196",
+        "delay_ms": 249.2,
+        "working": true
+      },
+      {
+        "ip": "52.217.136.81",
+        "delay_ms": 249.5,
+        "working": true
+      },
+      {
+        "ip": "52.216.43.153",
+        "delay_ms": 250.8,
+        "working": true
+      },
+      {
+        "ip": "52.216.26.108",
+        "delay_ms": 251.7,
+        "working": true
+      },
+      {
+        "ip": "52.217.192.249",
+        "delay_ms": 253.2,
+        "working": true
+      },
+      {
+        "ip": "52.217.199.121",
+        "delay_ms": 253.8,
+        "working": true
+      },
+      {
+        "ip": "54.231.230.33",
+        "delay_ms": 254.0,
+        "working": true
+      },
+      {
+        "ip": "16.182.73.113",
+        "delay_ms": 254.9,
+        "working": true
+      },
+      {
+        "ip": "3.5.28.156",
+        "delay_ms": 255.0,
+        "working": true
+      },
+      {
+        "ip": "16.15.177.12",
+        "delay_ms": 255.7,
+        "working": true
+      },
+      {
+        "ip": "16.182.64.105",
+        "delay_ms": 257.0,
+        "working": true
+      },
+      {
+        "ip": "54.231.132.153",
+        "delay_ms": 257.0,
+        "working": true
+      },
+      {
+        "ip": "16.15.181.190",
+        "delay_ms": 257.3,
+        "working": true
+      },
+      {
+        "ip": "16.15.207.188",
+        "delay_ms": 257.8,
+        "working": true
+      },
+      {
+        "ip": "16.15.183.112",
+        "delay_ms": 259.9,
+        "working": true
+      },
+      {
+        "ip": "54.231.229.89",
+        "delay_ms": 260.1,
+        "working": true
+      },
+      {
+        "ip": "3.5.28.81",
+        "delay_ms": 261.6,
+        "working": true
+      },
+      {
+        "ip": "16.15.199.49",
+        "delay_ms": 261.8,
+        "working": true
+      },
+      {
+        "ip": "3.5.27.101",
+        "delay_ms": 263.0,
+        "working": true
+      },
+      {
+        "ip": "52.217.114.161",
+        "delay_ms": 264.6,
+        "working": true
+      },
+      {
+        "ip": "16.15.191.167",
+        "delay_ms": 266.9,
+        "working": true
+      },
+      {
+        "ip": "54.231.198.177",
+        "delay_ms": 274.4,
+        "working": true
+      },
+      {
+        "ip": "16.182.32.185",
+        "delay_ms": 277.3,
         "working": true
       }
     ]
   },
   "github-production-release-asset-2e65be.s3.amazonaws.com": {
-    "selected_ip": "16.15.183.17",
+    "selected_ip": "3.5.30.156",
     "candidates": [
       "16.15.177.12",
       "16.15.177.90",
@@ -1219,249 +1219,249 @@
     ],
     "results": [
       {
-        "ip": "16.15.183.17",
-        "delay_ms": 231.9,
-        "working": true
-      },
-      {
-        "ip": "16.182.37.49",
-        "delay_ms": 237.6,
-        "working": true
-      },
-      {
-        "ip": "3.5.27.30",
-        "delay_ms": 238.0,
-        "working": true
-      },
-      {
-        "ip": "16.15.193.79",
-        "delay_ms": 240.0,
-        "working": true
-      },
-      {
-        "ip": "52.217.114.161",
-        "delay_ms": 242.7,
-        "working": true
-      },
-      {
-        "ip": "52.217.172.97",
-        "delay_ms": 246.1,
-        "working": true
-      },
-      {
-        "ip": "3.5.25.123",
-        "delay_ms": 246.3,
-        "working": true
-      },
-      {
-        "ip": "3.5.1.122",
-        "delay_ms": 246.5,
-        "working": true
-      },
-      {
-        "ip": "3.5.21.183",
-        "delay_ms": 248.3,
-        "working": true
-      },
-      {
-        "ip": "54.231.227.153",
-        "delay_ms": 249.8,
-        "working": true
-      },
-      {
-        "ip": "16.15.193.106",
-        "delay_ms": 250.7,
-        "working": true
-      },
-      {
-        "ip": "3.5.28.70",
-        "delay_ms": 250.7,
-        "working": true
-      },
-      {
-        "ip": "16.15.199.85",
-        "delay_ms": 251.5,
-        "working": true
-      },
-      {
-        "ip": "16.15.177.90",
-        "delay_ms": 252.0,
-        "working": true
-      },
-      {
-        "ip": "54.231.194.73",
-        "delay_ms": 252.2,
-        "working": true
-      },
-      {
-        "ip": "54.231.128.233",
-        "delay_ms": 252.8,
-        "working": true
-      },
-      {
-        "ip": "3.5.21.171",
-        "delay_ms": 255.9,
-        "working": true
-      },
-      {
-        "ip": "54.231.165.145",
-        "delay_ms": 255.9,
-        "working": true
-      },
-      {
-        "ip": "16.15.252.62",
-        "delay_ms": 256.3,
-        "working": true
-      },
-      {
-        "ip": "16.182.65.33",
-        "delay_ms": 256.5,
-        "working": true
-      },
-      {
-        "ip": "52.217.32.148",
-        "delay_ms": 257.6,
-        "working": true
-      },
-      {
-        "ip": "52.217.162.49",
-        "delay_ms": 259.0,
-        "working": true
-      },
-      {
-        "ip": "52.217.136.81",
-        "delay_ms": 259.6,
-        "working": true
-      },
-      {
-        "ip": "16.15.183.58",
-        "delay_ms": 259.7,
-        "working": true
-      },
-      {
-        "ip": "16.15.228.171",
-        "delay_ms": 264.8,
-        "working": true
-      },
-      {
-        "ip": "16.15.223.178",
-        "delay_ms": 265.9,
-        "working": true
-      },
-      {
-        "ip": "16.15.199.71",
-        "delay_ms": 268.6,
-        "working": true
-      },
-      {
-        "ip": "3.5.27.60",
-        "delay_ms": 270.6,
-        "working": true
-      },
-      {
-        "ip": "52.216.209.65",
-        "delay_ms": 273.5,
+        "ip": "3.5.30.156",
+        "delay_ms": 231.4,
         "working": true
       },
       {
         "ip": "16.15.207.151",
-        "delay_ms": 274.8,
-        "working": true
-      },
-      {
-        "ip": "16.15.191.164",
-        "delay_ms": 274.8,
-        "working": true
-      },
-      {
-        "ip": "3.5.19.141",
-        "delay_ms": 275.0,
-        "working": true
-      },
-      {
-        "ip": "16.182.34.9",
-        "delay_ms": 275.6,
+        "delay_ms": 232.7,
         "working": true
       },
       {
         "ip": "52.217.124.97",
-        "delay_ms": 276.1,
+        "delay_ms": 236.4,
         "working": true
       },
       {
-        "ip": "52.216.217.57",
-        "delay_ms": 277.1,
+        "ip": "3.5.27.60",
+        "delay_ms": 237.0,
         "working": true
       },
       {
-        "ip": "52.217.199.121",
-        "delay_ms": 279.0,
+        "ip": "54.231.128.233",
+        "delay_ms": 237.1,
         "working": true
       },
       {
-        "ip": "16.15.177.12",
-        "delay_ms": 279.7,
+        "ip": "16.15.199.85",
+        "delay_ms": 237.2,
         "working": true
       },
       {
         "ip": "16.15.207.59",
-        "delay_ms": 281.6,
+        "delay_ms": 239.7,
+        "working": true
+      },
+      {
+        "ip": "16.15.199.71",
+        "delay_ms": 240.0,
+        "working": true
+      },
+      {
+        "ip": "16.15.223.178",
+        "delay_ms": 240.5,
         "working": true
       },
       {
         "ip": "52.216.53.73",
-        "delay_ms": 281.6,
-        "working": true
-      },
-      {
-        "ip": "3.5.2.65",
-        "delay_ms": 286.8,
-        "working": true
-      },
-      {
-        "ip": "16.182.32.185",
-        "delay_ms": 287.3,
-        "working": true
-      },
-      {
-        "ip": "3.5.30.156",
-        "delay_ms": 290.7,
-        "working": true
-      },
-      {
-        "ip": "3.5.27.19",
-        "delay_ms": 291.2,
-        "working": true
-      },
-      {
-        "ip": "3.5.0.105",
-        "delay_ms": 317.0,
-        "working": true
-      },
-      {
-        "ip": "52.217.120.185",
-        "delay_ms": 319.9,
-        "working": true
-      },
-      {
-        "ip": "52.217.77.92",
-        "delay_ms": 319.9,
-        "working": true
-      },
-      {
-        "ip": "54.231.198.177",
-        "delay_ms": 319.9,
+        "delay_ms": 241.6,
         "working": true
       },
       {
         "ip": "52.217.41.180",
-        "delay_ms": 369.0,
+        "delay_ms": 242.6,
         "working": true
+      },
+      {
+        "ip": "52.216.209.65",
+        "delay_ms": 243.0,
+        "working": true
+      },
+      {
+        "ip": "16.15.177.90",
+        "delay_ms": 243.2,
+        "working": true
+      },
+      {
+        "ip": "3.5.27.19",
+        "delay_ms": 244.4,
+        "working": true
+      },
+      {
+        "ip": "3.5.0.105",
+        "delay_ms": 244.8,
+        "working": true
+      },
+      {
+        "ip": "3.5.19.141",
+        "delay_ms": 245.0,
+        "working": true
+      },
+      {
+        "ip": "52.216.217.57",
+        "delay_ms": 247.1,
+        "working": true
+      },
+      {
+        "ip": "16.15.191.164",
+        "delay_ms": 248.4,
+        "working": true
+      },
+      {
+        "ip": "3.5.25.123",
+        "delay_ms": 248.7,
+        "working": true
+      },
+      {
+        "ip": "3.5.21.183",
+        "delay_ms": 249.2,
+        "working": true
+      },
+      {
+        "ip": "52.217.136.81",
+        "delay_ms": 249.5,
+        "working": true
+      },
+      {
+        "ip": "16.15.252.62",
+        "delay_ms": 251.5,
+        "working": true
+      },
+      {
+        "ip": "16.15.183.17",
+        "delay_ms": 253.5,
+        "working": true
+      },
+      {
+        "ip": "52.217.199.121",
+        "delay_ms": 253.8,
+        "working": true
+      },
+      {
+        "ip": "52.217.32.148",
+        "delay_ms": 254.1,
+        "working": true
+      },
+      {
+        "ip": "16.15.183.58",
+        "delay_ms": 255.2,
+        "working": true
+      },
+      {
+        "ip": "16.15.177.12",
+        "delay_ms": 255.7,
+        "working": true
+      },
+      {
+        "ip": "16.15.193.79",
+        "delay_ms": 256.8,
+        "working": true
+      },
+      {
+        "ip": "52.217.120.185",
+        "delay_ms": 259.5,
+        "working": true
+      },
+      {
+        "ip": "3.5.1.122",
+        "delay_ms": 259.8,
+        "working": true
+      },
+      {
+        "ip": "16.15.193.106",
+        "delay_ms": 262.4,
+        "working": true
+      },
+      {
+        "ip": "54.231.165.145",
+        "delay_ms": 262.6,
+        "working": true
+      },
+      {
+        "ip": "3.5.28.70",
+        "delay_ms": 264.0,
+        "working": true
+      },
+      {
+        "ip": "3.5.27.30",
+        "delay_ms": 264.3,
+        "working": true
+      },
+      {
+        "ip": "52.217.114.161",
+        "delay_ms": 264.6,
+        "working": true
+      },
+      {
+        "ip": "52.217.162.49",
+        "delay_ms": 265.1,
+        "working": true
+      },
+      {
+        "ip": "16.15.228.171",
+        "delay_ms": 265.7,
+        "working": true
+      },
+      {
+        "ip": "54.231.227.153",
+        "delay_ms": 269.3,
+        "working": true
+      },
+      {
+        "ip": "52.217.172.97",
+        "delay_ms": 274.2,
+        "working": true
+      },
+      {
+        "ip": "54.231.198.177",
+        "delay_ms": 274.4,
+        "working": true
+      },
+      {
+        "ip": "52.217.77.92",
+        "delay_ms": 275.3,
+        "working": true
+      },
+      {
+        "ip": "3.5.21.171",
+        "delay_ms": 275.9,
+        "working": true
+      },
+      {
+        "ip": "16.182.32.185",
+        "delay_ms": 277.3,
+        "working": true
+      },
+      {
+        "ip": "54.231.194.73",
+        "delay_ms": 292.3,
+        "working": true
+      },
+      {
+        "ip": "16.182.34.9",
+        "delay_ms": 316.3,
+        "working": true
+      },
+      {
+        "ip": "16.182.65.33",
+        "delay_ms": 357.1,
+        "working": true
+      },
+      {
+        "ip": "16.182.37.49",
+        "delay_ms": 535.4,
+        "working": true
+      },
+      {
+        "ip": "3.5.2.65",
+        "delay_ms": 2000.0,
+        "working": false
       }
     ]
   },
   "github-production-repository-file-5c1aeb.s3.amazonaws.com": {
-    "selected_ip": "16.15.183.154",
+    "selected_ip": "3.5.30.156",
     "candidates": [
       "16.15.176.83",
       "16.15.177.12",
@@ -1514,249 +1514,249 @@
     ],
     "results": [
       {
-        "ip": "16.15.183.154",
-        "delay_ms": 230.8,
-        "working": true
-      },
-      {
-        "ip": "52.217.64.188",
-        "delay_ms": 234.9,
+        "ip": "3.5.30.156",
+        "delay_ms": 231.4,
         "working": true
       },
       {
         "ip": "16.15.217.180",
-        "delay_ms": 236.0,
+        "delay_ms": 234.2,
         "working": true
       },
       {
-        "ip": "16.15.228.181",
-        "delay_ms": 237.2,
-        "working": true
-      },
-      {
-        "ip": "16.15.253.159",
-        "delay_ms": 239.3,
-        "working": true
-      },
-      {
-        "ip": "16.15.223.183",
-        "delay_ms": 239.5,
-        "working": true
-      },
-      {
-        "ip": "16.15.207.63",
-        "delay_ms": 240.3,
-        "working": true
-      },
-      {
-        "ip": "3.5.0.103",
-        "delay_ms": 241.0,
-        "working": true
-      },
-      {
-        "ip": "3.5.30.46",
-        "delay_ms": 242.1,
-        "working": true
-      },
-      {
-        "ip": "52.216.222.65",
-        "delay_ms": 242.3,
-        "working": true
-      },
-      {
-        "ip": "16.15.183.126",
-        "delay_ms": 244.6,
-        "working": true
-      },
-      {
-        "ip": "3.5.28.125",
-        "delay_ms": 245.7,
-        "working": true
-      },
-      {
-        "ip": "52.217.136.57",
-        "delay_ms": 245.9,
-        "working": true
-      },
-      {
-        "ip": "52.216.43.153",
-        "delay_ms": 246.2,
-        "working": true
-      },
-      {
-        "ip": "3.5.25.123",
-        "delay_ms": 246.3,
-        "working": true
-      },
-      {
-        "ip": "54.231.227.153",
-        "delay_ms": 249.8,
-        "working": true
-      },
-      {
-        "ip": "3.5.6.186",
-        "delay_ms": 250.4,
-        "working": true
-      },
-      {
-        "ip": "16.15.193.106",
-        "delay_ms": 250.7,
-        "working": true
-      },
-      {
-        "ip": "16.15.199.85",
-        "delay_ms": 251.5,
-        "working": true
-      },
-      {
-        "ip": "16.182.33.145",
-        "delay_ms": 255.1,
-        "working": true
-      },
-      {
-        "ip": "16.15.177.207",
-        "delay_ms": 255.4,
-        "working": true
-      },
-      {
-        "ip": "54.231.165.145",
-        "delay_ms": 255.9,
-        "working": true
-      },
-      {
-        "ip": "16.15.252.62",
-        "delay_ms": 256.3,
-        "working": true
-      },
-      {
-        "ip": "3.5.29.177",
-        "delay_ms": 256.5,
-        "working": true
-      },
-      {
-        "ip": "52.217.136.81",
-        "delay_ms": 259.6,
-        "working": true
-      },
-      {
-        "ip": "16.182.73.113",
-        "delay_ms": 260.9,
-        "working": true
-      },
-      {
-        "ip": "16.15.252.242",
-        "delay_ms": 261.4,
-        "working": true
-      },
-      {
-        "ip": "16.15.186.196",
-        "delay_ms": 262.7,
-        "working": true
-      },
-      {
-        "ip": "16.15.223.178",
-        "delay_ms": 265.9,
-        "working": true
-      },
-      {
-        "ip": "16.15.199.71",
-        "delay_ms": 268.6,
-        "working": true
-      },
-      {
-        "ip": "16.15.176.83",
-        "delay_ms": 269.7,
-        "working": true
-      },
-      {
-        "ip": "52.217.160.201",
-        "delay_ms": 269.8,
+        "ip": "52.217.64.188",
+        "delay_ms": 235.0,
         "working": true
       },
       {
         "ip": "3.5.28.211",
-        "delay_ms": 271.2,
+        "delay_ms": 236.1,
         "working": true
       },
       {
-        "ip": "3.5.25.244",
-        "delay_ms": 271.2,
+        "ip": "16.15.199.85",
+        "delay_ms": 237.2,
         "working": true
       },
       {
-        "ip": "52.216.209.65",
-        "delay_ms": 273.5,
+        "ip": "16.15.186.196",
+        "delay_ms": 237.7,
         "working": true
       },
       {
-        "ip": "52.217.134.97",
-        "delay_ms": 276.1,
+        "ip": "3.5.0.103",
+        "delay_ms": 238.2,
         "working": true
       },
       {
-        "ip": "52.217.165.153",
-        "delay_ms": 276.8,
+        "ip": "16.15.199.71",
+        "delay_ms": 240.0,
         "working": true
       },
       {
-        "ip": "16.15.177.12",
-        "delay_ms": 279.7,
-        "working": true
-      },
-      {
-        "ip": "54.231.128.97",
-        "delay_ms": 281.5,
-        "working": true
-      },
-      {
-        "ip": "52.216.53.73",
-        "delay_ms": 281.6,
+        "ip": "16.15.223.178",
+        "delay_ms": 240.5,
         "working": true
       },
       {
         "ip": "52.216.40.193",
-        "delay_ms": 284.8,
+        "delay_ms": 240.5,
         "working": true
       },
       {
-        "ip": "16.15.223.255",
-        "delay_ms": 286.6,
+        "ip": "16.15.207.63",
+        "delay_ms": 241.0,
         "working": true
       },
       {
-        "ip": "3.5.29.232",
-        "delay_ms": 286.7,
-        "working": true
-      },
-      {
-        "ip": "3.5.2.65",
-        "delay_ms": 286.8,
-        "working": true
-      },
-      {
-        "ip": "3.5.30.156",
-        "delay_ms": 290.7,
-        "working": true
-      },
-      {
-        "ip": "3.5.0.105",
-        "delay_ms": 317.0,
-        "working": true
-      },
-      {
-        "ip": "16.15.183.112",
-        "delay_ms": 320.0,
+        "ip": "52.216.53.73",
+        "delay_ms": 241.6,
         "working": true
       },
       {
         "ip": "52.217.41.180",
-        "delay_ms": 369.0,
+        "delay_ms": 242.6,
         "working": true
+      },
+      {
+        "ip": "52.216.209.65",
+        "delay_ms": 243.0,
+        "working": true
+      },
+      {
+        "ip": "16.15.176.83",
+        "delay_ms": 243.7,
+        "working": true
+      },
+      {
+        "ip": "16.15.228.181",
+        "delay_ms": 244.5,
+        "working": true
+      },
+      {
+        "ip": "3.5.0.105",
+        "delay_ms": 244.8,
+        "working": true
+      },
+      {
+        "ip": "16.15.223.255",
+        "delay_ms": 244.9,
+        "working": true
+      },
+      {
+        "ip": "52.217.160.201",
+        "delay_ms": 245.2,
+        "working": true
+      },
+      {
+        "ip": "16.15.253.159",
+        "delay_ms": 245.5,
+        "working": true
+      },
+      {
+        "ip": "3.5.6.186",
+        "delay_ms": 247.9,
+        "working": true
+      },
+      {
+        "ip": "16.182.33.145",
+        "delay_ms": 248.2,
+        "working": true
+      },
+      {
+        "ip": "3.5.29.177",
+        "delay_ms": 248.5,
+        "working": true
+      },
+      {
+        "ip": "3.5.25.123",
+        "delay_ms": 248.7,
+        "working": true
+      },
+      {
+        "ip": "3.5.30.46",
+        "delay_ms": 248.8,
+        "working": true
+      },
+      {
+        "ip": "52.217.136.81",
+        "delay_ms": 249.5,
+        "working": true
+      },
+      {
+        "ip": "52.217.134.97",
+        "delay_ms": 249.6,
+        "working": true
+      },
+      {
+        "ip": "52.216.43.153",
+        "delay_ms": 250.8,
+        "working": true
+      },
+      {
+        "ip": "16.15.252.62",
+        "delay_ms": 251.5,
+        "working": true
+      },
+      {
+        "ip": "52.217.165.153",
+        "delay_ms": 253.1,
+        "working": true
+      },
+      {
+        "ip": "16.182.73.113",
+        "delay_ms": 254.9,
+        "working": true
+      },
+      {
+        "ip": "16.15.177.12",
+        "delay_ms": 255.7,
+        "working": true
+      },
+      {
+        "ip": "16.15.177.207",
+        "delay_ms": 256.6,
+        "working": true
+      },
+      {
+        "ip": "3.5.28.125",
+        "delay_ms": 256.9,
+        "working": true
+      },
+      {
+        "ip": "3.5.29.232",
+        "delay_ms": 258.7,
+        "working": true
+      },
+      {
+        "ip": "16.15.183.154",
+        "delay_ms": 258.9,
+        "working": true
+      },
+      {
+        "ip": "16.15.183.112",
+        "delay_ms": 259.9,
+        "working": true
+      },
+      {
+        "ip": "52.217.136.57",
+        "delay_ms": 260.1,
+        "working": true
+      },
+      {
+        "ip": "16.15.193.106",
+        "delay_ms": 262.4,
+        "working": true
+      },
+      {
+        "ip": "54.231.165.145",
+        "delay_ms": 262.6,
+        "working": true
+      },
+      {
+        "ip": "16.15.252.242",
+        "delay_ms": 262.9,
+        "working": true
+      },
+      {
+        "ip": "54.231.227.153",
+        "delay_ms": 269.3,
+        "working": true
+      },
+      {
+        "ip": "16.15.183.126",
+        "delay_ms": 270.4,
+        "working": true
+      },
+      {
+        "ip": "52.216.222.65",
+        "delay_ms": 270.9,
+        "working": true
+      },
+      {
+        "ip": "16.15.223.183",
+        "delay_ms": 272.3,
+        "working": true
+      },
+      {
+        "ip": "3.5.25.244",
+        "delay_ms": 273.7,
+        "working": true
+      },
+      {
+        "ip": "54.231.128.97",
+        "delay_ms": 276.9,
+        "working": true
+      },
+      {
+        "ip": "3.5.2.65",
+        "delay_ms": 2000.0,
+        "working": false
       }
     ]
   },
   "github-production-user-asset-6210df.s3.amazonaws.com": {
-    "selected_ip": "54.231.169.129",
+    "selected_ip": "52.217.170.193",
     "candidates": [
       "16.15.177.12",
       "16.15.183.241",
@@ -1809,239 +1809,239 @@
     ],
     "results": [
       {
-        "ip": "54.231.169.129",
-        "delay_ms": 233.2,
-        "working": true
-      },
-      {
-        "ip": "54.231.229.113",
-        "delay_ms": 236.4,
-        "working": true
-      },
-      {
-        "ip": "3.5.7.105",
-        "delay_ms": 236.7,
-        "working": true
-      },
-      {
-        "ip": "16.15.218.137",
-        "delay_ms": 237.4,
-        "working": true
-      },
-      {
-        "ip": "16.15.183.241",
-        "delay_ms": 237.8,
-        "working": true
-      },
-      {
-        "ip": "52.217.237.9",
-        "delay_ms": 241.4,
-        "working": true
-      },
-      {
-        "ip": "52.217.199.145",
-        "delay_ms": 242.9,
-        "working": true
-      },
-      {
         "ip": "52.217.170.193",
-        "delay_ms": 243.9,
-        "working": true
-      },
-      {
-        "ip": "3.5.11.148",
-        "delay_ms": 245.6,
-        "working": true
-      },
-      {
-        "ip": "3.5.25.123",
-        "delay_ms": 246.3,
-        "working": true
-      },
-      {
-        "ip": "16.15.185.131",
-        "delay_ms": 247.8,
-        "working": true
-      },
-      {
-        "ip": "16.15.223.180",
-        "delay_ms": 248.3,
-        "working": true
-      },
-      {
-        "ip": "54.231.227.153",
-        "delay_ms": 249.8,
-        "working": true
-      },
-      {
-        "ip": "16.15.193.106",
-        "delay_ms": 250.7,
-        "working": true
-      },
-      {
-        "ip": "16.15.199.85",
-        "delay_ms": 251.5,
-        "working": true
-      },
-      {
-        "ip": "16.15.199.118",
-        "delay_ms": 252.8,
-        "working": true
-      },
-      {
-        "ip": "16.15.252.154",
-        "delay_ms": 253.0,
-        "working": true
-      },
-      {
-        "ip": "16.182.71.97",
-        "delay_ms": 253.3,
-        "working": true
-      },
-      {
-        "ip": "3.5.28.95",
-        "delay_ms": 253.3,
-        "working": true
-      },
-      {
-        "ip": "3.5.30.124",
-        "delay_ms": 253.7,
-        "working": true
-      },
-      {
-        "ip": "54.231.165.145",
-        "delay_ms": 255.9,
-        "working": true
-      },
-      {
-        "ip": "16.15.252.62",
-        "delay_ms": 256.3,
-        "working": true
-      },
-      {
-        "ip": "16.15.219.10",
-        "delay_ms": 257.3,
-        "working": true
-      },
-      {
-        "ip": "16.15.199.67",
-        "delay_ms": 257.5,
-        "working": true
-      },
-      {
-        "ip": "3.5.30.133",
-        "delay_ms": 258.2,
-        "working": true
-      },
-      {
-        "ip": "52.217.136.81",
-        "delay_ms": 259.6,
-        "working": true
-      },
-      {
-        "ip": "16.15.207.19",
-        "delay_ms": 260.2,
-        "working": true
-      },
-      {
-        "ip": "52.216.37.145",
-        "delay_ms": 260.9,
-        "working": true
-      },
-      {
-        "ip": "16.182.65.1",
-        "delay_ms": 261.1,
-        "working": true
-      },
-      {
-        "ip": "52.217.231.153",
-        "delay_ms": 261.9,
-        "working": true
-      },
-      {
-        "ip": "16.15.223.178",
-        "delay_ms": 265.9,
-        "working": true
-      },
-      {
-        "ip": "16.15.199.71",
-        "delay_ms": 268.6,
-        "working": true
-      },
-      {
-        "ip": "54.231.131.49",
-        "delay_ms": 269.1,
-        "working": true
-      },
-      {
-        "ip": "52.216.209.65",
-        "delay_ms": 273.5,
-        "working": true
-      },
-      {
-        "ip": "3.5.31.37",
-        "delay_ms": 273.5,
-        "working": true
-      },
-      {
-        "ip": "3.5.27.89",
-        "delay_ms": 277.7,
-        "working": true
-      },
-      {
-        "ip": "16.15.177.12",
-        "delay_ms": 279.7,
-        "working": true
-      },
-      {
-        "ip": "52.216.53.73",
-        "delay_ms": 281.6,
-        "working": true
-      },
-      {
-        "ip": "3.5.2.65",
-        "delay_ms": 286.8,
-        "working": true
-      },
-      {
-        "ip": "54.231.133.121",
-        "delay_ms": 290.0,
+        "delay_ms": 231.2,
         "working": true
       },
       {
         "ip": "3.5.30.156",
-        "delay_ms": 290.7,
+        "delay_ms": 231.4,
+        "working": true
+      },
+      {
+        "ip": "16.15.207.19",
+        "delay_ms": 233.9,
+        "working": true
+      },
+      {
+        "ip": "16.15.199.85",
+        "delay_ms": 237.2,
+        "working": true
+      },
+      {
+        "ip": "52.216.37.145",
+        "delay_ms": 237.6,
+        "working": true
+      },
+      {
+        "ip": "3.5.28.95",
+        "delay_ms": 239.9,
+        "working": true
+      },
+      {
+        "ip": "16.15.252.154",
+        "delay_ms": 240.0,
+        "working": true
+      },
+      {
+        "ip": "16.15.199.71",
+        "delay_ms": 240.0,
+        "working": true
+      },
+      {
+        "ip": "16.15.223.178",
+        "delay_ms": 240.5,
+        "working": true
+      },
+      {
+        "ip": "52.216.53.73",
+        "delay_ms": 241.6,
         "working": true
       },
       {
         "ip": "54.231.163.1",
-        "delay_ms": 302.3,
+        "delay_ms": 241.9,
         "working": true
       },
       {
-        "ip": "3.5.0.105",
-        "delay_ms": 317.0,
-        "working": true
-      },
-      {
-        "ip": "52.217.171.249",
-        "delay_ms": 319.7,
-        "working": true
-      },
-      {
-        "ip": "16.15.228.96",
-        "delay_ms": 349.3,
+        "ip": "16.15.199.67",
+        "delay_ms": 242.0,
         "working": true
       },
       {
         "ip": "52.217.41.180",
-        "delay_ms": 369.0,
+        "delay_ms": 242.6,
+        "working": true
+      },
+      {
+        "ip": "52.216.209.65",
+        "delay_ms": 243.0,
+        "working": true
+      },
+      {
+        "ip": "16.15.219.10",
+        "delay_ms": 243.5,
+        "working": true
+      },
+      {
+        "ip": "3.5.0.105",
+        "delay_ms": 244.8,
+        "working": true
+      },
+      {
+        "ip": "16.15.199.118",
+        "delay_ms": 245.3,
+        "working": true
+      },
+      {
+        "ip": "54.231.133.121",
+        "delay_ms": 247.0,
+        "working": true
+      },
+      {
+        "ip": "54.231.131.49",
+        "delay_ms": 247.6,
+        "working": true
+      },
+      {
+        "ip": "3.5.25.123",
+        "delay_ms": 248.7,
+        "working": true
+      },
+      {
+        "ip": "52.217.136.81",
+        "delay_ms": 249.5,
+        "working": true
+      },
+      {
+        "ip": "3.5.30.133",
+        "delay_ms": 251.0,
+        "working": true
+      },
+      {
+        "ip": "16.15.223.180",
+        "delay_ms": 251.5,
+        "working": true
+      },
+      {
+        "ip": "3.5.27.89",
+        "delay_ms": 251.5,
+        "working": true
+      },
+      {
+        "ip": "16.15.252.62",
+        "delay_ms": 251.5,
+        "working": true
+      },
+      {
+        "ip": "16.182.65.1",
+        "delay_ms": 252.9,
+        "working": true
+      },
+      {
+        "ip": "16.15.177.12",
+        "delay_ms": 255.7,
+        "working": true
+      },
+      {
+        "ip": "16.15.228.96",
+        "delay_ms": 256.7,
+        "working": true
+      },
+      {
+        "ip": "54.231.169.129",
+        "delay_ms": 257.5,
         "working": true
       },
       {
         "ip": "3.5.0.21",
-        "delay_ms": 561.2,
+        "delay_ms": 258.1,
         "working": true
+      },
+      {
+        "ip": "16.15.218.137",
+        "delay_ms": 258.4,
+        "working": true
+      },
+      {
+        "ip": "16.15.193.106",
+        "delay_ms": 262.4,
+        "working": true
+      },
+      {
+        "ip": "52.217.199.145",
+        "delay_ms": 262.4,
+        "working": true
+      },
+      {
+        "ip": "54.231.165.145",
+        "delay_ms": 262.6,
+        "working": true
+      },
+      {
+        "ip": "3.5.31.37",
+        "delay_ms": 262.8,
+        "working": true
+      },
+      {
+        "ip": "3.5.11.148",
+        "delay_ms": 264.1,
+        "working": true
+      },
+      {
+        "ip": "52.217.171.249",
+        "delay_ms": 265.4,
+        "working": true
+      },
+      {
+        "ip": "3.5.7.105",
+        "delay_ms": 265.6,
+        "working": true
+      },
+      {
+        "ip": "16.15.183.241",
+        "delay_ms": 265.8,
+        "working": true
+      },
+      {
+        "ip": "3.5.30.124",
+        "delay_ms": 267.2,
+        "working": true
+      },
+      {
+        "ip": "16.15.185.131",
+        "delay_ms": 267.2,
+        "working": true
+      },
+      {
+        "ip": "54.231.227.153",
+        "delay_ms": 269.3,
+        "working": true
+      },
+      {
+        "ip": "16.182.71.97",
+        "delay_ms": 272.8,
+        "working": true
+      },
+      {
+        "ip": "52.217.231.153",
+        "delay_ms": 273.5,
+        "working": true
+      },
+      {
+        "ip": "54.231.229.113",
+        "delay_ms": 274.1,
+        "working": true
+      },
+      {
+        "ip": "52.217.237.9",
+        "delay_ms": 275.8,
+        "working": true
+      },
+      {
+        "ip": "3.5.2.65",
+        "delay_ms": 2000.0,
+        "working": false
       },
       {
         "ip": "54.231.162.33",
@@ -2058,7 +2058,7 @@
     "results": [
       {
         "ip": "192.0.66.2",
-        "delay_ms": 82.3,
+        "delay_ms": 82.5,
         "working": true
       }
     ]
@@ -2075,12 +2075,12 @@
     "results": [
       {
         "ip": "140.82.113.3",
-        "delay_ms": 319.8,
+        "delay_ms": 260.7,
         "working": true
       },
       {
-        "ip": "20.26.156.215",
-        "delay_ms": 319.8,
+        "ip": "140.82.112.4",
+        "delay_ms": 267.4,
         "working": true
       },
       {
@@ -2089,13 +2089,13 @@
         "working": true
       },
       {
-        "ip": "140.82.114.3",
-        "delay_ms": 320.1,
+        "ip": "20.26.156.215",
+        "delay_ms": 320.0,
         "working": true
       },
       {
-        "ip": "140.82.112.4",
-        "delay_ms": 320.3,
+        "ip": "140.82.114.3",
+        "delay_ms": 351.0,
         "working": true
       }
     ]
@@ -2110,23 +2110,23 @@
     "results": [
       {
         "ip": "140.82.113.17",
-        "delay_ms": 285.5,
-        "working": true
-      },
-      {
-        "ip": "140.82.114.17",
-        "delay_ms": 290.5,
+        "delay_ms": 319.5,
         "working": true
       },
       {
         "ip": "140.82.114.18",
-        "delay_ms": 344.0,
+        "delay_ms": 319.9,
+        "working": true
+      },
+      {
+        "ip": "140.82.114.17",
+        "delay_ms": 320.0,
         "working": true
       }
     ]
   },
   "github.githubassets.com": {
-    "selected_ip": "185.199.111.154",
+    "selected_ip": "185.199.110.154",
     "candidates": [
       "185.199.108.154",
       "185.199.109.154",
@@ -2135,23 +2135,23 @@
     ],
     "results": [
       {
-        "ip": "185.199.111.154",
-        "delay_ms": 61.5,
+        "ip": "185.199.110.154",
+        "delay_ms": 64.3,
         "working": true
       },
       {
-        "ip": "185.199.109.154",
-        "delay_ms": 66.6,
+        "ip": "185.199.111.154",
+        "delay_ms": 65.8,
         "working": true
       },
       {
         "ip": "185.199.108.154",
-        "delay_ms": 66.9,
+        "delay_ms": 69.7,
         "working": true
       },
       {
-        "ip": "185.199.110.154",
-        "delay_ms": 67.3,
+        "ip": "185.199.109.154",
+        "delay_ms": 79.5,
         "working": true
       }
     ]
@@ -2169,38 +2169,38 @@
     "results": [
       {
         "ip": "199.232.89.194",
-        "delay_ms": 273.4,
+        "delay_ms": 237.3,
         "working": true
       },
       {
         "ip": "151.101.65.194",
-        "delay_ms": 300.3,
+        "delay_ms": 283.2,
         "working": true
       },
       {
         "ip": "151.101.1.194",
-        "delay_ms": 307.3,
+        "delay_ms": 302.3,
         "working": true
       },
       {
         "ip": "151.101.129.194",
-        "delay_ms": 320.0,
+        "delay_ms": 312.6,
         "working": true
       },
       {
         "ip": "151.101.193.194",
-        "delay_ms": 320.1,
+        "delay_ms": 319.7,
         "working": true
       },
       {
         "ip": "151.101.205.194",
-        "delay_ms": 343.1,
+        "delay_ms": 399.6,
         "working": true
       }
     ]
   },
   "github.io": {
-    "selected_ip": "185.199.110.153",
+    "selected_ip": "185.199.109.153",
     "candidates": [
       "185.199.108.153",
       "185.199.109.153",
@@ -2209,18 +2209,18 @@
     ],
     "results": [
       {
-        "ip": "185.199.110.153",
-        "delay_ms": 60.6,
+        "ip": "185.199.109.153",
+        "delay_ms": 77.0,
         "working": true
       },
       {
         "ip": "185.199.108.153",
-        "delay_ms": 61.8,
+        "delay_ms": 77.8,
         "working": true
       },
       {
-        "ip": "185.199.109.153",
-        "delay_ms": 74.5,
+        "ip": "185.199.110.153",
+        "delay_ms": 80.4,
         "working": true
       },
       {
@@ -2231,7 +2231,7 @@
     ]
   },
   "github.map.fastly.net": {
-    "selected_ip": "185.199.109.133",
+    "selected_ip": "185.199.110.133",
     "candidates": [
       "185.199.108.133",
       "185.199.109.133",
@@ -2240,29 +2240,29 @@
     ],
     "results": [
       {
-        "ip": "185.199.109.133",
-        "delay_ms": 70.6,
-        "working": true
-      },
-      {
-        "ip": "185.199.111.133",
-        "delay_ms": 72.9,
+        "ip": "185.199.110.133",
+        "delay_ms": 59.9,
         "working": true
       },
       {
         "ip": "185.199.108.133",
-        "delay_ms": 72.9,
+        "delay_ms": 71.7,
         "working": true
       },
       {
-        "ip": "185.199.110.133",
-        "delay_ms": 90.2,
+        "ip": "185.199.109.133",
+        "delay_ms": 78.9,
+        "working": true
+      },
+      {
+        "ip": "185.199.111.133",
+        "delay_ms": 82.3,
         "working": true
       }
     ]
   },
   "githubstatus.com": {
-    "selected_ip": "185.199.110.153",
+    "selected_ip": "185.199.109.153",
     "candidates": [
       "185.199.108.153",
       "185.199.109.153",
@@ -2271,18 +2271,18 @@
     ],
     "results": [
       {
-        "ip": "185.199.110.153",
-        "delay_ms": 60.6,
+        "ip": "185.199.109.153",
+        "delay_ms": 77.0,
         "working": true
       },
       {
         "ip": "185.199.108.153",
-        "delay_ms": 61.8,
+        "delay_ms": 77.8,
         "working": true
       },
       {
-        "ip": "185.199.109.153",
-        "delay_ms": 74.5,
+        "ip": "185.199.110.153",
+        "delay_ms": 80.4,
         "working": true
       },
       {
@@ -2293,7 +2293,7 @@
     ]
   },
   "live.github.com": {
-    "selected_ip": "140.82.113.25",
+    "selected_ip": "140.82.114.25",
     "candidates": [
       "140.82.112.26",
       "140.82.113.25",
@@ -2302,29 +2302,29 @@
     ],
     "results": [
       {
-        "ip": "140.82.113.25",
-        "delay_ms": 262.9,
-        "working": true
-      },
-      {
         "ip": "140.82.114.25",
-        "delay_ms": 265.0,
+        "delay_ms": 302.4,
         "working": true
       },
       {
         "ip": "140.82.112.26",
-        "delay_ms": 306.0,
+        "delay_ms": 319.2,
+        "working": true
+      },
+      {
+        "ip": "140.82.113.25",
+        "delay_ms": 320.2,
         "working": true
       },
       {
         "ip": "140.82.114.26",
-        "delay_ms": 320.0,
+        "delay_ms": 359.0,
         "working": true
       }
     ]
   },
   "media.githubusercontent.com": {
-    "selected_ip": "185.199.109.133",
+    "selected_ip": "185.199.110.133",
     "candidates": [
       "185.199.108.133",
       "185.199.109.133",
@@ -2333,29 +2333,29 @@
     ],
     "results": [
       {
-        "ip": "185.199.109.133",
-        "delay_ms": 70.6,
-        "working": true
-      },
-      {
-        "ip": "185.199.111.133",
-        "delay_ms": 72.9,
+        "ip": "185.199.110.133",
+        "delay_ms": 59.9,
         "working": true
       },
       {
         "ip": "185.199.108.133",
-        "delay_ms": 72.9,
+        "delay_ms": 71.7,
         "working": true
       },
       {
-        "ip": "185.199.110.133",
-        "delay_ms": 90.2,
+        "ip": "185.199.109.133",
+        "delay_ms": 78.9,
+        "working": true
+      },
+      {
+        "ip": "185.199.111.133",
+        "delay_ms": 82.3,
         "working": true
       }
     ]
   },
   "objects.githubusercontent.com": {
-    "selected_ip": "185.199.109.133",
+    "selected_ip": "185.199.110.133",
     "candidates": [
       "185.199.108.133",
       "185.199.109.133",
@@ -2364,23 +2364,23 @@
     ],
     "results": [
       {
-        "ip": "185.199.109.133",
-        "delay_ms": 70.6,
-        "working": true
-      },
-      {
-        "ip": "185.199.111.133",
-        "delay_ms": 72.9,
+        "ip": "185.199.110.133",
+        "delay_ms": 59.9,
         "working": true
       },
       {
         "ip": "185.199.108.133",
-        "delay_ms": 72.9,
+        "delay_ms": 71.7,
         "working": true
       },
       {
-        "ip": "185.199.110.133",
-        "delay_ms": 90.2,
+        "ip": "185.199.109.133",
+        "delay_ms": 78.9,
+        "working": true
+      },
+      {
+        "ip": "185.199.111.133",
+        "delay_ms": 82.3,
         "working": true
       }
     ]
@@ -2393,13 +2393,13 @@
     "results": [
       {
         "ip": "13.107.42.16",
-        "delay_ms": 74.5,
+        "delay_ms": 82.8,
         "working": true
       }
     ]
   },
   "raw.githubusercontent.com": {
-    "selected_ip": "185.199.109.133",
+    "selected_ip": "185.199.110.133",
     "candidates": [
       "185.199.108.133",
       "185.199.109.133",
@@ -2408,29 +2408,29 @@
     ],
     "results": [
       {
-        "ip": "185.199.109.133",
-        "delay_ms": 70.6,
-        "working": true
-      },
-      {
-        "ip": "185.199.111.133",
-        "delay_ms": 72.9,
+        "ip": "185.199.110.133",
+        "delay_ms": 59.9,
         "working": true
       },
       {
         "ip": "185.199.108.133",
-        "delay_ms": 72.9,
+        "delay_ms": 71.7,
         "working": true
       },
       {
-        "ip": "185.199.110.133",
-        "delay_ms": 90.2,
+        "ip": "185.199.109.133",
+        "delay_ms": 78.9,
+        "working": true
+      },
+      {
+        "ip": "185.199.111.133",
+        "delay_ms": 82.3,
         "working": true
       }
     ]
   },
   "user-images.githubusercontent.com": {
-    "selected_ip": "185.199.109.133",
+    "selected_ip": "185.199.110.133",
     "candidates": [
       "185.199.108.133",
       "185.199.109.133",
@@ -2439,29 +2439,29 @@
     ],
     "results": [
       {
-        "ip": "185.199.109.133",
-        "delay_ms": 70.6,
-        "working": true
-      },
-      {
-        "ip": "185.199.111.133",
-        "delay_ms": 72.9,
+        "ip": "185.199.110.133",
+        "delay_ms": 59.9,
         "working": true
       },
       {
         "ip": "185.199.108.133",
-        "delay_ms": 72.9,
+        "delay_ms": 71.7,
         "working": true
       },
       {
-        "ip": "185.199.110.133",
-        "delay_ms": 90.2,
+        "ip": "185.199.109.133",
+        "delay_ms": 78.9,
+        "working": true
+      },
+      {
+        "ip": "185.199.111.133",
+        "delay_ms": 82.3,
         "working": true
       }
     ]
   },
   "vscode.dev": {
-    "selected_ip": "13.107.213.40",
+    "selected_ip": "13.107.246.40",
     "candidates": [
       "13.107.213.40",
       "13.107.246.40",
@@ -2469,24 +2469,24 @@
     ],
     "results": [
       {
-        "ip": "13.107.213.40",
-        "delay_ms": 67.6,
+        "ip": "13.107.246.40",
+        "delay_ms": 75.1,
         "working": true
       },
       {
-        "ip": "13.107.246.40",
-        "delay_ms": 77.6,
+        "ip": "13.107.213.40",
+        "delay_ms": 84.8,
         "working": true
       },
       {
         "ip": "150.171.109.211",
-        "delay_ms": 370.7,
+        "delay_ms": 259.8,
         "working": true
       }
     ]
   },
   "education.github.com": {
-    "selected_ip": "140.82.114.21",
+    "selected_ip": "140.82.113.21",
     "candidates": [
       "140.82.112.21",
       "140.82.112.22",
@@ -2495,29 +2495,29 @@
     ],
     "results": [
       {
-        "ip": "140.82.114.21",
-        "delay_ms": 304.2,
-        "working": true
-      },
-      {
         "ip": "140.82.113.21",
-        "delay_ms": 319.9,
+        "delay_ms": 242.2,
         "working": true
       },
       {
         "ip": "140.82.112.22",
-        "delay_ms": 320.2,
+        "delay_ms": 244.4,
         "working": true
       },
       {
         "ip": "140.82.112.21",
-        "delay_ms": 323.3,
+        "delay_ms": 256.1,
+        "working": true
+      },
+      {
+        "ip": "140.82.114.21",
+        "delay_ms": 317.8,
         "working": true
       }
     ]
   },
   "private-user-images.githubusercontent.com": {
-    "selected_ip": "185.199.109.133",
+    "selected_ip": "185.199.110.133",
     "candidates": [
       "185.199.108.133",
       "185.199.109.133",
@@ -2526,23 +2526,23 @@
     ],
     "results": [
       {
-        "ip": "185.199.109.133",
-        "delay_ms": 70.6,
-        "working": true
-      },
-      {
-        "ip": "185.199.111.133",
-        "delay_ms": 72.9,
+        "ip": "185.199.110.133",
+        "delay_ms": 59.9,
         "working": true
       },
       {
         "ip": "185.199.108.133",
-        "delay_ms": 72.9,
+        "delay_ms": 71.7,
         "working": true
       },
       {
-        "ip": "185.199.110.133",
-        "delay_ms": 90.2,
+        "ip": "185.199.109.133",
+        "delay_ms": 78.9,
+        "working": true
+      },
+      {
+        "ip": "185.199.111.133",
+        "delay_ms": 82.3,
         "working": true
       }
     ]
